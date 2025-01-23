@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omnarayansharma777" alt="omnarayansharma777" /></a> </p>
 
-- 🔭 I’m currently working on **Audio Processing**
-
-- 🌱 I’m currently learning **DSA, GCP Services**
+- 🔭 I’m currently working on **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omnarayansharma777/](https://github.com/omnarayansharma777/)
 
-- 💬 Ask me about **GCP Services , DSA**
+- 💬 Ask me about **Goole Cloud Services , DSA, SQL, Data Modelling , Spark**
 
 - 📫 How to reach me **sharma1380992@gmail.com**
 
